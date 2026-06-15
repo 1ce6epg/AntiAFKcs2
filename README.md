@@ -1,3 +1,4 @@
+![1ce6epg](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR0aTY3eXhiMHI3MXpxNmtqZ2treGw2ZHAwOWdubm82N3pncHlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KxznyoCjUyOUo/giphy.gif)
 # AntiAFK
 
 Minimal Windows keep-awake app.

@@ -1,3 +1,4 @@
+[![1ce6epg GitHub stats](https://github-readme-stats.vercel.app/api?username=1ce6epg)](https://github.com/1ce6epg/github-readme-stats)
 ## VACNET: Safe [15.06.2026]
 ![1ce6epg](https://i.pinimg.com/originals/f2/58/99/f258997a921c7f6c2ebf19ebcd25cfa7.gif)
 

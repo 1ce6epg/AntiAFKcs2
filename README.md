@@ -1,12 +1,3 @@
-[![][github-release-shield]][github-release-link]
-[![][vercel-shield]][vercel-link]
-[![][github-action-shield]][github-action-link]<br/>
-[![][github-contributors-shield]][github-contributors-link]
-[![][github-forks-shield]][github-forks-link]
-[![][github-stars-shield]][github-stars-link]
-[![][github-issues-shield]][github-issues-link]
-[![][github-license-shield]][github-license-link]<br>
-
 ## VACNET: Safe [15.06.2026]
 ![1ce6epg](https://i.pinimg.com/originals/f2/58/99/f258997a921c7f6c2ebf19ebcd25cfa7.gif)
 
